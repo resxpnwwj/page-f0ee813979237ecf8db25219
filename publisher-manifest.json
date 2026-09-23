@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3824a4cd567133b0c7c5081e",
+  "owner": "resxpnwwj",
+  "repo": "page-f0ee813979237ecf8db25219",
+  "title": "雷神云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f0ee813979237ecf8db25219",
+      "a": "雷神云",
+      "b": "2027最新官网",
+      "entity": "雷神云",
+      "brand": "雷神云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "939aa4a301801cc69f685dcf23f6fed8c2e55dff3923deb36357857a878f24a5",
+      "content": {
+        "primary_entity": "雷神云",
+        "keyword1": "雷神云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，完成订阅配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择雷神云套餐，再按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐再配置",
+          "AI_DESCRIPTION": "，雷神云提供基础版、旗舰版与团队版三档订阅，月付价格分别为 15 元、35 元与 85 元，年付方案对应 150 元、350 元与 850 元，流量从每月 100GB 到 1000GB，同时在线设备数从 3 台到 20 台逐档递增，旗舰版包含 IPLC 专线游戏加速优化，团队版支持企业定制路由与专属客户经理，按设备类型选择客户端后导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与订阅周期三个角度选择雷神云套餐。",
+          "AI_FEATURES_TITLE": "选择套餐关注点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版可同时在线 20 台，按常用设备数量选择。",
+          "AI_FEATURE_TEXT_2": "每月流量从 100GB、300GB 到 1000GB 逐档提升，按日常使用强度确定额度。",
+          "AI_FEATURE_TEXT_3": "月付按月 15 元、35 元、85 元计费，年付方案对应 150 元、350 元、850 元，长期使用可选年付。",
+          "AI_FEATURE_TITLE_1": "设备在线数量",
+          "AI_FEATURE_TITLE_2": "每月流量额度",
+          "AI_FEATURE_TITLE_3": "订阅计费周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端配置的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "雷神云提供基础版、旗舰版与团队版三档海外加速订阅，流量、设备数量与线路规格逐档提升，适配电脑、手机与路由器等常用设备，按自身设备与流量需求选择套餐后导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "雷神云海外加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "年付方案更划算",
+          "AI_HIGHLIGHT_3": "多设备同时在线",
+          "AI_PLANS_INTRO": "基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB、5 台设备并含 IPLC 专线游戏加速优化；团队版每月 1000GB、20 台设备并支持企业定制路由，三档均提供年付方案。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量需求，在基础版、旗舰版与团队版中确定一档订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备在线数量、流量额度与节点线路是否满足日常使用要求。",
+          "AI_STEP_TEXT_3": "在对应设备上安装客户端，依照客户端配置文档导入订阅信息并连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "雷神云套餐一览",
+          "AI_FAQ_TITLE": "雷神云常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "雷神云基础版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备同时在线，适合日常网页浏览、轻量视频观看与个人移动设备使用。若涉及 4K 流媒体或大量下载，可考虑旗舰版。",
+          "AI_FAQ_QUESTION_2": "旗舰版的 IPLC 专线有什么作用？",
+          "AI_FAQ_ANSWER_2": "旗舰版配置 IPLC 专线，针对游戏加速与实时通讯场景优化延迟与稳定性。配合每月 300GB 流量与 5 台设备上限，适合同时使用多终端且对线路质量有要求的用户。",
+          "AI_FAQ_QUESTION_3": "团队版支持多少台设备同时在线？",
+          "AI_FAQ_ANSWER_3": "团队版支持 20 台设备同时在线，提供每月 1000GB 流量与 VIP 专属高带宽节点。套餐包含企业定制路由选项与专属客户经理服务，适合小型团队协作场景。",
+          "AI_FAQ_QUESTION_4": "雷神云年付方案如何计费？",
+          "AI_FAQ_ANSWER_4": "三档套餐均提供年付：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。年付与月付相比在单价上更为经济，适合长期稳定使用的用户。",
+          "AI_FAQ_QUESTION_5": "更换设备后订阅需要重新配置吗？",
+          "AI_FAQ_ANSWER_5": "更换设备后需在新设备上依客户端文档重新导入订阅地址。同一套餐的设备数量上限不变，已在线设备需先断开再添加新设备。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--mes358a5wfuk1b.com",
+    "host": "xn--mes358a5wfuk1b.com"
+  },
+  "file_hashes": {
+    "index.html": "e25cf80e2b29912892445494514c979010a1f81e45414f9997e14bfb744c0ef6",
+    "sitemap.xml": "e83636a4f686fea7ac3210720ccb17fada525a16989f34b2e8d75a1e14589aca",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6049bed0a6a9fc6f2d97402aac63e781a1648042dd961fe69eb603d1fd55744b",
+    "robots.txt": "9e4425a655cd9d1d45111b2f5cd54d550c21ed2415c7240ed204739c593b8b8c",
+    "7384831daf4698b7a4a2a0bdda73499f.txt": "e9b9c9376d7cf9d3416adf9901fc7d64e389da3fcf425b5fc34e560bc8a2105a"
+  },
+  "revision": "ab73b7336780ad51a0a8c80eaece2705a7bcedfbc876e0c436bc22482a808391"
+}
